@@ -24,17 +24,23 @@ Finally, for another 30 min, our data scientist team is interested in the data s
 using and the details of the algorithm you are using to solve the proposed problem.
 Tasks
 We need a data scientist to discuss the following:
+
 • Think about how you will be conducting the business conversation (purpose, agenda … etc.)
 
 • Discuss and confirm your understanding of the organization’s business climate and goals
 
 • Explore the problem and its impact to the company
+
 • Communicate the business value of your advanced analytics platform offering that addresses
 the problem or need the customer has communicated
+
 • Address any customer objections
+
 • Explaining the details of the machine learning model is crucial. Pick a model at your choice (e.g.
 Logistic Regression) and be ready to go through the details of the algorithm.
+
 • Close the meeting with clear next step(s)
+
 • You will be evaluated based on communication and presentation skills
 
 
@@ -45,28 +51,49 @@ about the product in the campaign/offer that was send to a specific customer and
 result of this campaign (label attribute). We provided you we every attribute we have about the
 product, use whatever you see make sense to solve the defined project.
 Here is a list of the attributes:
+
 • country: Country name
+
+
 • article: 6 digit article number, as unique identifier of an article
+
 • sales: total number of units sold in respective retail week
+
 • regular_price: recommended retail price of the article
+
 • current_price: current selling price (weighted average over the week)
+
 • ratio: price ratio as current_price/regular_price, such that price discount is 1-
 ratio
+
 • retailweek: start date of the retailweek
+
 • promo1: indicator for media advertisement, taking 1 in weeks of activation and 0
 otherwise
+
 • promo2: indicator for store events, taking 1 in weeks with events and 0 otherwise
+
 • customer_id: customer unique identifier, one id per customer
+
 • article: 6 digit article number, as unique identifier of an article
+
 • productgroup: product group the article belongs to
+
 • category: product category the article belongs to
+
 • cost: total costs of the article (assumed to be fixed over time)
+
 • style: description of article design
+
 • sizes: size range in which article is available
+
 • gender: gender of target consumer of the article
+
 • rgb_*_main_color: intensity of the red (r), green (g), and blue (b) primaries of the article‘s
 main color, taking values [0,250]
+
 • rgb_*_sec_color: intensity of the red (r), green (g), and blue (b) primaries of the article‘s
 secondary color, taking values [0,250]
+
 • label: advertisement result after offering/sending/presenting the offer to the
 customer. 0 means the customer did not buy and 1 means the costomer did buy.
