@@ -29,17 +29,12 @@ We need a data scientist to discuss the following:
 • Discuss and confirm your understanding of the organization’s business climate and goals
 
 • Explore the problem and its impact to the company
-
 • Communicate the business value of your advanced analytics platform offering that addresses
 the problem or need the customer has communicated
-
 • Address any customer objections
-
 • Explaining the details of the machine learning model is crucial. Pick a model at your choice (e.g.
 Logistic Regression) and be ready to go through the details of the algorithm.
-
 • Close the meeting with clear next step(s)
-
 • You will be evaluated based on communication and presentation skills
 
 
